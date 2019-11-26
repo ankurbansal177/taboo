@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": "c1",
+      "name": "classic",
+      "label": "Classic",
+      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+    },
+    {
+      "id": "c1",
+      "name": "hindi",
+      "label": "Hindi",
+      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+    },
+    {
+      "id": "c1",
+      "name": "english",
+      "label": "English",
+      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+    },
+    {
+      "id": "c1",
+      "name": "technology",
+      "label": "Technology",
+      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+    },
+    {
+      "id": "c1",
+      "name": "adult",
+      "label": "Adults Only",
+      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+    },
+    {
+      "id": "c1",
+      "name": "entertainment",
+      "label": "Entertainment",
+      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+    }
+  ]
+}
