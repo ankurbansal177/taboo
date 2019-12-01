@@ -2,39 +2,39 @@
   "categories": [
     {
       "id": "c1",
-      "name": "classic",
+      "name": "Classic",
       "label": "Classic",
-      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+      "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/taboo.png"
     },
     {
       "id": "c1",
-      "name": "hindi",
+      "name": "Hindi",
       "label": "Hindi",
-      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+      "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/hindi.png"
     },
     {
       "id": "c1",
-      "name": "english",
-      "label": "English",
-      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+      "name": "History",
+      "label": "History",
+      "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/history.png"
     },
     {
       "id": "c1",
-      "name": "technology",
+      "name": "Technology",
       "label": "Technology",
-      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+      "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/tech.png"
     },
     {
       "id": "c1",
-      "name": "adult",
+      "name": "Adult",
       "label": "Adults Only",
-      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+      "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/adult.png"
     },
     {
       "id": "c1",
-      "name": "entertainment",
+      "name": "Entertainment",
       "label": "Entertainment",
-      "url": "http://www.novosoft.us/N/HighestMountains/icon256.png"
+      "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/music.png"
     }
   ]
 }
