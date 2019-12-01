@@ -4,42 +4,42 @@
       "id": "c1",
       "name": "Classic",
       "label": "Classic",
-      "color": #6c5cb4,
+      "color": "#6c5cb4",
       "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/taboo.png"
     },
     {
       "id": "c1",
       "name": "Hindi",
       "label": "Hindi",
-      "color": #6a3127,
+      "color": "#6a3127",
       "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/hindi.png"
     },
     {
       "id": "c1",
       "name": "History",
       "label": "History",
-      "color": #686559,
+      "color": "#686559",
       "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/history.png"
     },
     {
       "id": "c1",
       "name": "Technology",
       "label": "Technology",
-      "color": #085A83,
+      "color": "#085A83",
       "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/tech.png"
     },
     {
       "id": "c1",
       "name": "Adult",
       "label": "Adults Only",
-      "color": #ee1a54,
+      "color": "#ee1a54",
       "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/adult.png"
     },
     {
       "id": "c1",
       "name": "Entertainment",
       "label": "Entertainment",
-      "color": #f0aa3f,
+      "color": "#f0aa3f",
       "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/music.png"
     }
   ]
