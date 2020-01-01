@@ -1,7 +1,7 @@
 [
 	{
-		category: Classic
-		words: 
+		"category":"Classic"
+		"words": 
 		[
 			{"question":"Appraisal","options":["salary","increment","income","raise","hike"]},
 			{"question":"boss","options":["manager","senior","relationship","report","top"]},
@@ -256,8 +256,8 @@
 		]
 	},
 	{
-		category: History
-		words: 
+		"category":"History"
+		"words": 
 		[
 			{"question":"Invasion","options":["forcefully","country","intrusion","army","military"]},
 			{"question":"independence","options":["freedom","1947","15th August","control","self-government"]},
@@ -515,8 +515,8 @@
 		]
 	},
 	{
-	category: Technology
-	words: 
+	"category":"Technology"
+	"words": 
 		[
 			{"question":"programmer","options":["code","computer","person","software","creates"]},
 			{"question":"android","options":["operating system","google","smartphone","device","product"]},
@@ -773,8 +773,8 @@
 		]
 	},
 	{
-		category: Fashion
-		words:
+		"category":"Fashion"
+		"words":
 		[
 			{"question":"Chapstick","options":["lip","dry","cosmetic","balm","brand"]},
 			{"question":"Style","options":["Trend","fashion","sense","clothes","cool"]},
