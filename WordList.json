@@ -1,6 +1,6 @@
 [
 	{
-		"category":"Classic"
+		"category":"Classic",
 		"words": 
 		[
 			{"question":"Appraisal","options":["salary","increment","income","raise","hike"]},
@@ -256,7 +256,7 @@
 		]
 	},
 	{
-		"category":"History"
+		"category":"History",
 		"words": 
 		[
 			{"question":"Invasion","options":["forcefully","country","intrusion","army","military"]},
@@ -515,7 +515,7 @@
 		]
 	},
 	{
-	"category":"Technology"
+	"category":"Technology",
 	"words": 
 		[
 			{"question":"programmer","options":["code","computer","person","software","creates"]},
@@ -688,7 +688,7 @@
 			{"question":"transplant","options":["liver","heart","kideney","extract","cut"]},
 			{"question":"clone","options":["similar","genetic","same","identical","exact"]},
 			{"question":"website","options":["browser","facebook","google","type","category"]},
-			{"question":"privacy        (data privacy)","options":["security","consent","information","share","own"]},
+			{"question":"privacy (data privacy)","options":["security","consent","information","share","own"]},
 			{"question":"encryption","options":["password","data","whatsapp","technology","protect"]},
 			{"question":"3D glass","options":["movies","theatre","illusion","technology","device"]},
 			{"question":"mining","options":["metal","extraction","earth","surface","underground"]},
@@ -773,7 +773,7 @@
 		]
 	},
 	{
-		"category":"Fashion"
+		"category":"Fashion",
 		"words":
 		[
 			{"question":"Chapstick","options":["lip","dry","cosmetic","balm","brand"]},
