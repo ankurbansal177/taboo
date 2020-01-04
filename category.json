@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "id": "c1",
+      "categoryId": 1,
       "name": "Classic",
       "label": "Classic",
       "color": "#6c5cb4",
@@ -9,35 +9,35 @@
     },
     
     {
-      "id": "c1",
+      "categoryId": 2,
       "name": "History",
       "label": "History",
       "color": "#686559",
       "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/history.png"
     },
     {
-      "id": "c1",
+      "categoryId": 3,
       "name": "Technology",
       "label": "Technology",
       "color": "#085A83",
       "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/tech.png"
     },
     {
-      "id": "c1",
+      "categoryId": 4,
       "name": "Fashion",
       "label": "Fashion",
       "color": "#f0aa3f",
       "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/music.png"
     },
     {
-      "id": "c1",
+      "categoryId": 5,
       "name": "Adult",
       "label": "Adults Only",
       "color": "#ee1a54",
       "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/adult.png"
     },
     {
-      "id": "c1",
+      "categoryId": 6,
       "name": "Hindi",
       "label": "Hindi",
       "color": "#6a3127",
