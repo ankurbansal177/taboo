@@ -1,6 +1,7 @@
 [
 	{
 		"category":"Classic",
+		"categoryId" : 1
 		"words": 
 		[
 			{"question":"Appraisal","options":["salary","increment","income","raise","hike"]},
@@ -257,6 +258,7 @@
 	},
 	{
 		"category":"History",
+		"categoryId" : 2
 		"words": 
 		[
 			{"question":"Invasion","options":["forcefully","country","intrusion","army","military"]},
@@ -516,6 +518,7 @@
 	},
 	{
 	"category":"Technology",
+	"categoryId" : 3
 	"words": 
 		[
 			{"question":"programmer","options":["code","computer","person","software","creates"]},
@@ -774,6 +777,7 @@
 	},
 	{
 		"category":"Fashion",
+		"categoryId" : 4
 		"words":
 		[
 			{"question":"Chapstick","options":["lip","dry","cosmetic","balm","brand"]},
