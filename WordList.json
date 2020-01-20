@@ -204,7 +204,7 @@
 {"question":"Doubt","options":["Unsure","Uncertain","Confidence","Hesitate","Question"]},
 {"question":"Detox","options":["Cleanse","Purify","Body","Remove","Toxins"]},
 {"question":"Sherwani","options":["Men","Traditional","Dress","Kurta","Fancy"]},
-{"question":"Savage","options":["Uncivilised","Brutal","Violent","Fierce","Vicious"]}
+{"question":"Savage","options":["Uncivilised","Brutal","Violent","Fierce","Vicious"]},
 {"question":"Maximum","options":["Amount","Minimum","Lowest","Wage","Largest"]},
 {"question":"Echo","options":["Repeat","Sound","Noise","Reflection","Audio"]},
 {"question":"Mercedes","options":["Car","Lamborghini","Automobile","Vehicle","Bmw"]},
@@ -390,7 +390,7 @@
 {"question":"Cow","options":["Holy","Animal","Beef","Worship","Hindu"]},
 {"question":"Columbus","options":["Discovery","America","Christopher","Explorer","Voyage"]},
 {"question":"Kurukshetra","options":["Battle","Pandavas","Kauravas","Mahabharat","Haryana"]},
-{"question":"Bharatnatyam","options":["Dance","Classical","Tamil Nadu","Indian","Art"]}
+{"question":"Bharatnatyam","options":["Dance","Classical","Tamil Nadu","Indian","Art"]},
 {"question":"Konark","options":["Orissa","Puri","Sun","Temple","Worship"]},
 {"question":"Accupressure","options":["Needles","Hands","Feet","Pressure","Medicine"]},
 {"question":"Kalarippayattu","options":["Martial","Tamil Nadu","Fighting","Ancient","Gatka"]},
@@ -717,7 +717,7 @@
 {"question":"Encryption","options":["Password","Data","Whatsapp","Technology","Protect"]},
 {"question":"Intel","options":["Company","Chips","Computer","Microprocessor","Mnc"]},
 {"question":"Aeroplane","options":["Flight","Sky","Pilot","Air-Hostess","Airport"]},
-{"question":"Broadcast","options":["Announce","Message","Inform","Eveyone","Send"]}
+{"question":"Broadcast","options":["Announce","Message","Inform","Eveyone","Send"]},
 {"question":"Fastag","options":["Toll","Rfid","Device","Payment","Technology"]},
 {"question":"Nokia","options":["Company","Phone","Finland","Mobile","1100"]},
 {"question":"Electrolysis","options":["Electricity","Breakdown","Transform","Convert","Current"]},
@@ -1025,7 +1025,7 @@
 {"question":"Trademark","options":["Symbol","Sign","Style","Signature","Expression"]},
 {"question":"Bespoke","options":["Customise","Customer","Specific","Particular","Commissioned"]},
 {"question":"Suspenders","options":["Strap","Pant","Scout","Buckles","Support"]},
-{"question":"Hoodie","options":["Sweatshirt","Jacket","Head","Cap","Cool"]}
+{"question":"Hoodie","options":["Sweatshirt","Jacket","Head","Cap","Cool"]},
 {"question":"Cosplay","options":["Comicon","Character","Dress","Costume","Clothes"]},
 {"question":"Crown","options":["King","Throne","Royal","Circular","Decoration"]},
 {"question":"Advertising","options":["Marketing ","Needs","Buy","Sponsored","Promote"]}
