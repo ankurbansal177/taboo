@@ -20,14 +20,14 @@
       "name": "Technology",
       "label": "Technology",
       "color": "#085A83",
-      "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/tech.png"
+      "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/technology.png"
     },
     {
       "categoryId": 4,
       "name": "Fashion",
       "label": "Fashion",
       "color": "#f0aa3f",
-      "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/music.png"
+      "url": "https://raw.githubusercontent.com/ankurbansal177/taboo/master/category_images/entertainment.png"
     },
     {
       "categoryId": 5,
